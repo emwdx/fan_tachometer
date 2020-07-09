@@ -1,8 +1,10 @@
 # fan_tachometer
-A program written for the Circuit Playground Express to measure the rotation speed of a fan.
+A program written in CircuitPython 5.3 for the Circuit Playground Express to measure the rotation speed of a fan.
 
 Fan Tachometer by [Evan Weinberg](http://www.evanweinberg.com) (GitHub: [emwdx](https://github.com/emwdx), Twitter: [@emwdx](https://twitter.com/emwdx)
 This program uses the Circuit Playground Express on the back of a fan pointed at a light source to calculate rotation frequency in rotations per second. This uses the ambient light hitting the onboard light sensor. The sensor picks up on the light sensor changing as the fan blades block the light source. 
+
+You should be able to clone the repository and then upload the entire directory to your Circuit Playground Express board. 
 
 You can set some options to make this work for you beginning on line 10.
 
