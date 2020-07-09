@@ -1,6 +1,6 @@
 # fan_tachometer
 
-Fan Tachometer by [Evan Weinberg](http://www.evanweinberg.com) (GitHub: [emwdx](https://github.com/emwdx), Twitter: [@emwdx](https://twitter.com/emwdx)
+Fan Tachometer by [Evan Weinberg](http://www.evanweinberg.com) (GitHub: [emwdx](https://github.com/emwdx), Twitter: [@emwdx](https://twitter.com/emwdx))
 
 A program written in CircuitPython 5.3 for the Circuit Playground Express to measure the rotation speed of a fan.
 
